@@ -1,5 +1,4 @@
-# bank-term-deposit-StreamlitApp
-# 📊 Bank Marketing Campaign Analysis & Prediction
+# 📊 From Prediction to Prioritization: Optimizing Telemarketing for Term Deposit Subscriptions
 
 ## Project Overview
 Project ini bertujuan untuk menganalisis dan memprediksi **probabilitas nasabah berlangganan deposito berjangka (term deposit)** berdasarkan data hasil kampanye telemarketing bank.  
